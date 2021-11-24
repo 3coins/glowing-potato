@@ -1,2 +1,2 @@
 # glowing-potato
-Empty repo to test GitHub features
+A code-less repo to test GitHub features. 
